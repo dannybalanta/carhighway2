@@ -1,5 +1,5 @@
 {
-    "name": "CarHighway2",
+    "name": "CarHighwayFuncionSinArg",
     "description": "",
     "dependencies": {
         "core": "*",
